@@ -1,4 +1,4 @@
-Number Of Cases,Street Address,Latitude,Longitude,Cluster Number,Recent Cases In Cluster,Total Cases In Cluster,Date,Month Number
+Number_Of_Cases,Street_Address,Latitude,Longitude,Cluster_Number,Recent_Cases_In_Cluster,Total_Cases_In_Cluster,Date,Month_Number
 1,choa chu kang avenue 2,1.378437,103.743747,1,2,533,140815,8
 30,choa chu kang avenue 2 (block 296),1.377421,103.740759,1,2,533,140815,8
 25,choa chu kang avenue 2 (block 296a),1.377133,103.740941,1,2,533,140815,8
